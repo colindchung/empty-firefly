@@ -1,0 +1,11 @@
+.app-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 4rem;
+    font-family: 'Roboto', sans-serif;
+}
