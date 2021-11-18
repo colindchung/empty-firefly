@@ -1,0 +1,10 @@
+.trpclk-input-container {
+    width: 100%;
+    padding-top: 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.button {
+    margin-left: 30px;
+}
