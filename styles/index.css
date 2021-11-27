@@ -17,17 +17,19 @@ h1 {
 }
 
 .category-container {
-    padding: 1rem 0rem;
+    padding-bottom: 2rem;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: left;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .link {
     display:inline-block;
-    padding:0.5em 1.5em;
-    margin:0 0.3em 0.3em 0;
+    padding: 0.5em 1.5em;
+    margin: 0em 0.5em 0.5em 0.5em;
+    min-width: 200px;
     border-radius:2em;
     box-sizing: border-box;
     text-decoration:none;
